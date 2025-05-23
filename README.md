@@ -1,5 +1,10 @@
 # Blender Vehicle Parts Generator
-Two powerful add-ons for creating mechanical components
+Two add-ons for creating mechanical and artist components
+## DEMO
+### WHEEL
+![Wheel](https://github.com/user-attachments/assets/c7b8a3c8-bc4e-4622-a3ca-b9474df0746f)
+### GEAR
+![Gear](https://github.com/user-attachments/assets/bf972739-1955-46b1-867b-80a18c8ae2c6)
 
 ## Included Add-ons
 
